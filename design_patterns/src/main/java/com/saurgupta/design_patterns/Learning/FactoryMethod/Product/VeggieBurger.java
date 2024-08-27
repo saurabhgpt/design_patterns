@@ -4,5 +4,5 @@ public class VeggieBurger implements IBurger{
     @Override
     public void prepare() {
 
-    }
+    } 
 }

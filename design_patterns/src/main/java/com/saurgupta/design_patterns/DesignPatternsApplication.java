@@ -1,6 +1,6 @@
 package com.saurgupta.design_patterns;
 
-import com.saurgupta.design_patterns.Learning.Singleton.Singleton;
+import com.saurgupta.design_patterns.Learning.Creational.Singleton.Singleton;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication

@@ -1,4 +1,4 @@
-package com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern;
+package com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern.PaymentSystem;
 
 public class CreditCard {
     private int amount = 1000;

@@ -1,6 +1,6 @@
-package com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern.Strategies;
+package com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern.PaymentSystem.Strategies;
 
-import com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern.CreditCard;
+import com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern.PaymentSystem.CreditCard;
 
 public class PaymentByCreditCard implements IPaymentStrategy {
     private CreditCard card;

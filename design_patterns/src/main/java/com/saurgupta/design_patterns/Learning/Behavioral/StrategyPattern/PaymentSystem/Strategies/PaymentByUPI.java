@@ -1,4 +1,4 @@
-package com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern.Strategies;
+package com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern.PaymentSystem.Strategies;
 
 public class PaymentByUPI implements IPaymentStrategy {
     private String pin;

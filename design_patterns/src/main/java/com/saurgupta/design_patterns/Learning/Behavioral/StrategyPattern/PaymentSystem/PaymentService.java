@@ -1,6 +1,6 @@
-package com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern;
+package com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern.PaymentSystem;
 
-import com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern.Strategies.IPaymentStrategy;
+import com.saurgupta.design_patterns.Learning.Behavioral.StrategyPattern.PaymentSystem.Strategies.IPaymentStrategy;
 
 public class PaymentService {
     private int cost;
